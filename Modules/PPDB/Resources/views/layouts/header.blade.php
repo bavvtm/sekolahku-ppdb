@@ -5,16 +5,15 @@
                 <div class="row">
                     <div class="col-lg-2 col-md-2 col-sm-3">
                         <div class="logo-area">
-                            <a href="/ppdb"><img class="img-responsive" src="img/logo.png" alt="logo"></a>
+                            <a href="/ppdb"><img class="img-responsive" src="assets/frontend/img/logo.png" alt="logo"></a>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-9">
                         <nav id="desktop-nav">
                             <ul>
-                                <li><a href="#">Program Studi</a></li>
+                                <li><a href="/">Beranda</a></li>
                                 <li><a href="#">Alur Pendaftaran</a></li>
                                 <li><a href="#">Berkas</a></li>
-                                <li><a href="#">Biaya</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -41,10 +40,9 @@
                         <nav id="dropdown">
                             <ul>
                                 <ul>
-                                    <li><a href="#">Program Studi</a></li>
+                                    <li><a href="/">Beranda</a></li>
                                     <li><a href="#">Alur Pendaftaran</a></li>
                                     <li><a href="#">Berkas</a></li>
-                                    <li><a href="#">Biaya</a></li>
                                 </ul>
                             </ul>
                         </nav>

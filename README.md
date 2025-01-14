@@ -11,14 +11,14 @@ Sekolahku adalah aplikasi manajemen sekolah berbasis website yang di bangun dan 
 ## Installation
 
 * Install [Composer](https://getcomposer.org/download) and [Npm](https://nodejs.org/en/download)
-* Clone the repository: `git clone https://github.com/andes2912/sekolahku`
+* Clone the repository: `git clone https://github.com/bavvtm/sekolahku-ppdb`
 * Install dependencies: `composer install ; npm install ; npm run dev`
 * Run `cp .env.example .env` for create .env file
 * Run `php artisan migrate --seed` for migration database
 * Run `php artisan storage:link` for create folder storage
 
 ## Penggunaan
-* Login sebagai Admin email: kepsek@sch.id & pw: bismillah
+* Login sebagai Admin email: admin@sch.id & pw: 12345678
 * Login sebagai PPDB, Perpustakaan, Staf, Pengajar semua dengan password 12345678
 
 ## Package
