@@ -1,4 +1,4 @@
-@extends('layouts.Frontend.app')
+@extends('layouts.frontend.app')
 @section('title')
     Kegiatan {{$kegiatan->nama}}
 @endsection

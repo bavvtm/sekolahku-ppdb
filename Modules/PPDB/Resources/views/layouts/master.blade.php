@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    @include('layouts.Frontend.style')
+    @include('layouts.frontend.style')
 </head>
 
 <body>
@@ -49,7 +49,7 @@
         <!-- Footer Area End Here -->
     </div>
     <!-- Main Body Area End Here -->
-    @include('layouts.Frontend.scripts')
+    @include('layouts.frontend.scripts')
 </body>
 
 </html>
